@@ -1,0 +1,29 @@
+body {
+    background: #AFEEEE;
+    position: center;
+    border: 5px solid black;
+    border-radius: 20%;
+    height: 620px;
+    width: 500px;
+  }
+  hr {
+    width: 90%;
+    position: center;
+    border-top: 1px solid grey;
+  }
+  h1 {
+    margin-left: 70px;
+    margin-top: 30px;
+  }
+  section {
+    margin-left: 25px;
+  }
+  #results {
+    padding: 20px;
+    color: blue;
+    font-size: 26px;
+    align-items: center;
+  }
+  button{
+    align-items: center;
+  }
