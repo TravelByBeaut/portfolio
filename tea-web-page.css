@@ -1,0 +1,54 @@
+#text {
+    color: black;
+    font-size: 18px;
+    font-style: georgia(serif);
+  }
+  body {
+    background: #AFEEEE;
+    padding-left: 20px;
+    
+  }
+  table, th, td {
+    border: solid black 3px;
+    border-collapse: collapse;
+    padding: 5px;
+  }
+  h1 {
+    border: single 3px black;
+  }
+  footer {
+    padding-top: 20px;
+  }
+  .buttonstyle {
+    font: serif;
+    font-size: 12px;
+    padding: 1px;
+    background: pink;
+    border: 1px solid green;
+    position: left;
+    width: 60px;
+    height: 20px;
+    border-radius: 20%;
+    
+  }
+  .buttonstyle:hover {
+    background: white;
+  }
+  .buttonstyle:active {
+    box-shadow: inset 0px 0px 3px;
+  }
+  .buttons {
+    font: serif;
+    font-size: 12px;
+    padding: 1px;
+    background: pink;
+    border: 1px solid green;
+    position: left;
+    width: 50px;
+    height: 20px;
+    border-radius: 20%;
+  }
+  .buttons:active {
+    box-shadow: inset 0px 0px 3px;
+    background: white;
+    }
