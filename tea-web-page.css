@@ -2,10 +2,17 @@
     color: black;
     font-size: 18px;
     font-style: georgia(serif);
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    max-width: 800px;
   }
   body {
     background: #AFEEEE;
     padding-left: 20px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
     
   }
   table, th, td {
@@ -15,6 +22,9 @@
   }
   h1 {
     border: single 3px black;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
   }
   footer {
     padding-top: 20px;
